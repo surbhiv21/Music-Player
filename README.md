@@ -20,7 +20,7 @@ This project allows users to play, pause, skip, and control songs in a sleek and
 Once the music player is open in your browser, click the Play button next to a song to start playing it. Use the controls at the bottom to play, pause, skip, or adjust playback. The Now Playing section shows the current song and album artwork.
 
 ## Live Demo
-surbhiv21.github.io/Music-Player/
+https://surbhiv21.github.io/Music-Player/
 
 ## Screenshot
 <img src = "https://github.com/surbhiv21/Music-Player/blob/main/img.png" alt ="img">
